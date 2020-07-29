@@ -1,12 +1,9 @@
 """
-Main module for the JASMIN services app.
+Main module for the CEDA services app.
 
 This app provides generic functionality for defining services and raising requests
 to join services.
 """
 
-__author__ = "Matt Pryor"
+__author__ = "Rhys Evans"
 __copyright__ = "Copyright 2015 UK Science and Technology Facilities Council"
-
-
-default_app_config = '{}.apps.AppConfig'.format(__name__)
